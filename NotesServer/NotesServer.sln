@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesServer", "NotesServer.csproj", "{77452B4D-AB30-44BF-A725-6093E662FB2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesWinFormClient", "..\NotesWinFormClient\NotesWinFormClient.csproj", "{E152C4A7-F616-4E24-BA12-25499B8E9642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77452B4D-AB30-44BF-A725-6093E662FB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77452B4D-AB30-44BF-A725-6093E662FB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77452B4D-AB30-44BF-A725-6093E662FB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77452B4D-AB30-44BF-A725-6093E662FB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E152C4A7-F616-4E24-BA12-25499B8E9642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E152C4A7-F616-4E24-BA12-25499B8E9642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E152C4A7-F616-4E24-BA12-25499B8E9642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E152C4A7-F616-4E24-BA12-25499B8E9642}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48AAA80E-0524-4BE7-BD98-D11C58C450A7}
+	EndGlobalSection
+EndGlobal
